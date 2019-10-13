@@ -1,4 +1,5 @@
 # latiptv
-lv , lt , ee, ru iptv list
+lv ,ru iptv list
 first timer for me doing this
-file from external sorce, will edit later by deleting duplicates 
+file from external sorce,edited
+will add more soon
