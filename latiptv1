@@ -99,3 +99,32 @@ https://cdnlb.tvplayhome.lt/live/eds/ETV2/HLS_encr/ETV2-audio_20000=96000-video=
 https://cdnlb.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/Disney_XD-audio_20002=96000-video=2200000.m3u8
 #EXTINF:-1,Disney_XD (EN)
 https://cdnlb.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/Disney_XD-audio_20001=96000-video=2200000.m3u8
+#EXTM3U
+#EXTINF:-1,ТНТ HD
+http://hls.telenet.lv:7474/tnthd/playlist.m3u8
+#EXTINF:-1,Матч! Арена HD
+http://hls.telenet.lv:7474/matcharenahd/playlist.m3u8
+#EXTINF:-1,Discoveryhd
+http://hls.telenet.lv:7474/discoveryhd/playlist.m3u8
+#EXTINF:-1,Eurosporthd
+http://hls.telenet.lv:7474/eurosporthd/playlist.m3u8
+#EXTINF:-1,Husrhd
+http://hls.telenet.lv:7474/hustlerhd/playlist.m3u8
+#EXTINF:-1,Mtvlivehd
+http://hls.telenet.lv:7474/mtvlivehd/playlist.m3u8
+#EXTINF:-1,Ntvhd
+http://hls.telenet.lv:7474/ntvhd/playlist.m3u8
+#EXTINF:-1,Nat geo wild hd
+http://hls.telenet.lv:7474/natgeowildhd/playlist.m3u8
+#EXTINF:-1,Viasat sport hd
+http://hls.telenet.lv:7474/viasatsporthd/playlist.m3u8
+#EXTINF:-1,Natgeohd
+http://hls.telenet.lv:7474/natgeohd/playlist.m3u8
+#EXTINF:-1,Prid
+http://hls.telenet.lv:7474/privatehd/playlist.m3u8
+#EXTINF:-1,Россия1 HD
+http://hls.telenet.lv:7474/r1hd/playlist.m3u8
+#EXTINF:-1,vipmegahit HD
+http://hls.telenet.lv:7474/vipmegahithd/playlist.m3u8
+#EXTINF:-1,Первый канал HD
+http://hls.telenet.lv:7474/1chhd/playlist.m3u8
