@@ -1,1001 +1,1061 @@
 #EXTM3U
-#EXTINF:-1,LTV1
-http://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
-#EXTINF:-1,LTV7
-http://185.176.117.242/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD.m3u8
-#EXTINF:-1,TV3 LV SD
-http://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD.m3u8
-#EXTINF:-1,LNT
-http://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD.m3u8
-#EXTINF:-1,TV6 LV
-http://185.176.117.242/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD.m3u8
-#EXTINF:-1,Kanāls 2
-http://185.176.117.242/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD.m3u8
-#EXTINF:-1,TV3+
-http://185.176.117.242/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
-#EXTINF:-1,TV3 LT SD
-http://185.176.117.242/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8
-#EXTINF:-1,TV3 LT HD
-http://185.176.117.242/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
-#EXTINF:-1,TV6 LT
-http://185.176.117.242/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8
-#EXTINF:-1,TV8 LT
-http://185.176.117.242/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
-#EXTINF:-1,LRT
-http://185.176.117.242/live/eds/LRT/HLS_encr/LRT.m3u8
-#EXTINF:-1,LRT Lithuania
-http://185.176.117.242/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8
-#EXTINF:-1,LNK
-http://185.176.117.242/live/eds/LNK/HLS_encr/LNK.m3u8
-#EXTINF:-1,TV1
-http://185.176.117.242/live/eds/TV1/HLS_encr/TV1.m3u8
-#EXTINF:-1,ETV
-http://185.176.117.242/live/eds/ETV/HLS_encr/ETV.m3u8
-#EXTINF:-1,ETV 2
-http://185.176.117.242/live/eds/ETV2/HLS_encr/ETV2.m3u8
-#EXTINF:-1,TV6 EE
-http://185.176.117.242/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD.m3u8
-#EXTINF:-1,Kanal 11
-http://185.176.117.242/live/eds/Kanal11/HLS_encr/Kanal11.m3u8
-#EXTINF:-1,Kanala 12
-http://185.176.117.242/live/eds/Kanal12/HLS_encr/Kanal12.m3u8
-#EXTINF:-1,Tallinna Televisioon
-http://185.176.117.242/live/eds/TallinnaTV/HLS_encr/TallinnaTV.m3u8
-#EXTINF:-1,Satellite TV
-http://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1,VH1
-http://185.176.117.242/live/eds/VH1/HLS_encr/VH1.m3u8
-#EXTINF:-1,MTV Hits
-http://185.176.117.242/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
-#EXTINF:-1,NTV Mir Baltic
-http://185.176.117.242/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
-#EXTINF:-1,PBK
-http://185.176.117.242/live/eds/PBK/HLS_encr/PBK.m3u8
-#EXTINF:-1,Ren TV Baltic
-http://185.176.117.242/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
-#EXTINF:-1,Kidzone
-http://185.176.117.242/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
-#EXTINF:-1,TV1000
-http://185.176.117.242/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
-#EXTINF:-1,TV1000 Action
-http://185.176.117.242/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
-#EXTINF:-1,TV1000 Premium
-http://185.176.117.242/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-1,BBC
-http://185.176.117.242/live/eds/BBC/HLS_encr/BBC.m3u8
-#EXTINF:-1,CNN
-http://185.176.117.242/live/eds/CNN/HLS_encr/CNN.m3u8
-#EXTINF:-1,Disney Channel
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1,Nickelodeon
-http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1,Disney Junior
-http://185.176.117.242/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-#EXTINF:-1,Nick JR
-http://185.176.117.242/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1,Nicktoons
-http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-#EXTINF:-1,Viasat Nature
-http://185.176.117.242/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
-#EXTINF:-1,Viasat History
-http://185.176.117.242/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
-#EXTINF:-1,Viasat Explorer
-http://185.176.117.242/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
-#EXTINF:-1,Setanta Sports
-http://185.176.117.242/live/eds/Setanta/HLS_encr/Setanta.m3u8
-#EXTINF:-1,Entertainment
-http://185.176.117.242/live/eds/Entertainment/HLS_encr/Entertainment.m3u8
-#EXTINF:-1,National Geographic
-http://185.176.117.242/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1,Brazzers
-http://185.176.117.242/live/eds/Brazzers/HLS_encr/Brazzers.m3u8
-#EXTINF:-1,Playboy
-http://185.176.117.242/live/eds/Playboy/HLS_encr/Playboy.m3u8
-#EXTINF:-1,TV3 LV HD
-http://185.176.117.242:80/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD.m3u8
-#EXTINF:-1,LTV1
-https://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,LTV7
-https://185.176.117.242/live/eds/LTV7_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV3 LV SD
-https://185.176.117.242/live/eds/TV3_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV3 LV HD
-https://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/index.m3u8
-#EXTINF:-1,LNT
-https://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV6 LV
-https://185.176.117.242/live/eds/TV6_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,Kanāls 2
-https://185.176.117.242/live/eds/Kanals2_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV3
-https://185.176.117.242/live/eds/3plus_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV3 LT SD
-https://185.176.117.242/live/eds/TV3_LT_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV3 LT HD
-https://185.176.117.242/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
-#EXTINF:-1,TV6 LT
-https://185.176.117.242/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV8 LT
-https://185.176.117.242/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
-#EXTINF:-1,LRT
-https://185.176.117.242/live/eds/LRT/HLS_encr/index.m3u8
-#EXTINF:-1,LRT Lithuania
-https://185.176.117.242/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
-#EXTINF:-1,LNK
-https://185.176.117.242/live/eds/LNK/HLS_encr/index.m3u8
-#EXTINF:-1,TV1
-https://185.176.117.242/live/eds/TV1/HLS_encr/index.m3u8
-#EXTINF:-1,ETV
-https://185.176.117.242/live/eds/ETV/HLS_encr/index.m3u8
-#EXTINF:-1,ETV 2
-https://185.176.117.242/live/eds/ETV2/HLS_encr/index.m3u8
-#EXTINF:-1,TV3 EE SD
-https://185.176.117.242/live/eds/TV3_EE_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV3 EE HD
-https://185.176.117.242/live/eds/TV3_EE_HD/HLS_encr/index.m3u8
-#EXTINF:-1,TV6 EE
-https://185.176.117.242/live/eds/TV6_EE_SD/HLS_encr/index.m3u8
-#EXTINF:-1,Kanal 11
-https://185.176.117.242/live/eds/Kanal11/HLS_encr/index.m3u8
-#EXTINF:-1,Kanala 12
-https://185.176.117.242/live/eds/Kanal12/HLS_encr/index.m3u8
-#EXTINF:-1,Tallinna Televisioon
-https://185.176.117.242/live/eds/TallinnaTV/HLS_encr/index.m3u8
-#EXTINF:-1,Satellite TV
-https://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/index.m3u8
-#EXTINF:-1,VH1
-https://185.176.117.242/live/eds/VH1/HLS_encr/index.m3u8
-#EXTINF:-1,MTV Hits
-https://185.176.117.242/live/eds/MTV_Hits/HLS_encr/index.m3u8
-#EXTINF:-1,NTV Mir Baltic
-https://185.176.117.242/live/eds/NTV_Mir/HLS_encr/index.m3u8
-#EXTINF:-1,PBK
-https://185.176.117.242/live/eds/PBK/HLS_encr/index.m3u8
-#EXTINF:-1,Ren TV Baltic
-https://185.176.117.242/live/eds/Ren_TV/HLS_encr/index.m3u8
-#EXTINF:-1,Kidzone
-https://185.176.117.242/live/eds/Kidzone/HLS_encr/index.m3u8
-#EXTINF:-1,TV1000
-https://185.176.117.242/live/eds/TV1000_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV1000 Action
-https://185.176.117.242/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV1000 Premium
-https://185.176.117.242/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
-#EXTINF:-1,BBC
-https://185.176.117.242/live/eds/BBC/HLS_encr/index.m3u8
-#EXTINF:-1,CNN
-https://185.176.117.242/live/eds/CNN/HLS_encr/index.m3u8
-#EXTINF:-1,Disney Channel
-https://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
-#EXTINF:-1,Nickelodeon
-https://185.176.117.242/live/eds/Nickelodeon/HLS_encr/index.m3u8
-#EXTINF:-1,Disney Junior
-https://185.176.117.242/live/eds/Disney_Junior/HLS_encr/index.m3u8
-#EXTINF:-1,Nick JR
-https://185.176.117.242/live/eds/Nick_JR/HLS_encr/index.m3u8
-#EXTINF:-1,Nicktoons
-https://185.176.117.242/live/eds/Nicktoons/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat Nature
-https://185.176.117.242/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat History
-https://185.176.117.242/live/eds/Viasat_History_SD/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat Explorer
-https://185.176.117.242/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
-#EXTINF:-1,Setanta Sports
-https://185.176.117.242/live/eds/Setanta/HLS_encr/index.m3u8
-#EXTINF:-1,Entertainment
-https://185.176.117.242/live/eds/Entertainment/HLS_encr/index.m3u8
-#EXTINF:-1,National Geographic
-https://185.176.117.242/live/eds/NatGeoHD/HLS_encr/index.m3u8
-#EXTINF:-1,Brazzers
-https://185.176.117.242/live/eds/Brazzers/HLS_encr/index.m3u8
-#EXTINF:-1,Playboy
-https://185.176.117.242/live/eds/Playboy/HLS_encr/index.m3u8
-#EXTINF:-1,TV3 EE SD
-https://185.176.117.242/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD.m3u8
-#EXTINF:-1,TV3 EE HD
-https://185.176.117.242/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD.m3u8
-#EXTINF:-1,LTV1
-https://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
-#EXTINF:-1,LTV7
-https://185.176.117.242/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD.m3u8
-#EXTINF:-1,TV3 LV SD
-https://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD.m3u8
-#EXTINF:-1,LNT
-https://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD.m3u8
-#EXTINF:-1,TV6 LV
-https://185.176.117.242/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD.m3u8
-#EXTINF:-1,Kanāls 2
-https://185.176.117.242/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD.m3u8
-#EXTINF:-1,TV3
-https://185.176.117.242/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
-#EXTINF:-1,TV3 LT SD
-https://185.176.117.242/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8
-#EXTINF:-1,TV3 LT HD
-https://185.176.117.242/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
-#EXTINF:-1,TV6 LT
-https://185.176.117.242/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8
-#EXTINF:-1,TV8 LT
-https://185.176.117.242/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
-#EXTINF:-1,LRT
-https://185.176.117.242/live/eds/LRT/HLS_encr/LRT.m3u8
-#EXTINF:-1,LRT Lithuania
-https://185.176.117.242/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8
-#EXTINF:-1,LNK
-https://185.176.117.242/live/eds/LNK/HLS_encr/LNK.m3u8
-#EXTINF:-1,TV1
-https://185.176.117.242/live/eds/TV1/HLS_encr/TV1.m3u8
-#EXTINF:-1,ETV
-https://185.176.117.242/live/eds/ETV/HLS_encr/ETV.m3u8
-#EXTINF:-1,ETV 2
-https://185.176.117.242/live/eds/ETV2/HLS_encr/ETV2.m3u8
-#EXTINF:-1,TV6 EE
-https://185.176.117.242/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD.m3u8
-#EXTINF:-1,Kanal 11
-https://185.176.117.242/live/eds/Kanal11/HLS_encr/Kanal11.m3u8
-#EXTINF:-1,Kanala 12
-https://185.176.117.242/live/eds/Kanal12/HLS_encr/Kanal12.m3u8
-#EXTINF:-1,Tallinna Televisioon
-https://185.176.117.242/live/eds/TallinnaTV/HLS_encr/TallinnaTV.m3u8
-#EXTINF:-1,Satellite TV
-https://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1,VH1
-https://185.176.117.242/live/eds/VH1/HLS_encr/VH1.m3u8
-#EXTINF:-1,MTV Hits
-https://185.176.117.242/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
-#EXTINF:-1,NTV Mir Baltic
-https://185.176.117.242/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
-#EXTINF:-1,PBK
-https://185.176.117.242/live/eds/PBK/HLS_encr/PBK.m3u8
-#EXTINF:-1,Ren TV Baltic
-https://185.176.117.242/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
-#EXTINF:-1,Kidzone
-https://185.176.117.242/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
-#EXTINF:-1,TV1000
-https://185.176.117.242/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
-#EXTINF:-1,TV1000 Action
-https://185.176.117.242/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
-#EXTINF:-1,TV1000 Premium
-https://185.176.117.242/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-1,BBC
-https://185.176.117.242/live/eds/BBC/HLS_encr/BBC.m3u8
-#EXTINF:-1,CNN
-https://185.176.117.242/live/eds/CNN/HLS_encr/CNN.m3u8
-#EXTINF:-1,Disney Channel
-https://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1,Nickelodeon
-https://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1,Disney Junior
-https://185.176.117.242/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-#EXTINF:-1,Nick JR
-https://185.176.117.242/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1,Nicktoons
-https://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-#EXTINF:-1,Viasat Nature
-https://185.176.117.242/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
-#EXTINF:-1,Viasat History
-https://185.176.117.242/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
-#EXTINF:-1,Viasat Explorer
-https://185.176.117.242/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
-#EXTINF:-1,Setanta Sports
-https://185.176.117.242/live/eds/Setanta/HLS_encr/Setanta.m3u8
-#EXTINF:-1,Entertainment
-https://185.176.117.242/live/eds/Entertainment/HLS_encr/Entertainment.m3u8
-#EXTINF:-1,National Geographic
-https://185.176.117.242/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1,Brazzers
-https://185.176.117.242/live/eds/Brazzers/HLS_encr/Brazzers.m3u8
-#EXTINF:-1,Playboy
-https://185.176.117.242/live/eds/Playboy/HLS_encr/Playboy.m3u8
-#EXTINF:-1,ViasatHistoryHD
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
-#EXTINF:-1,Disney_XD
-https://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
-#EXTINF:-1,Viasat History HD
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat Explorer HD
-https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
-#EXTINF:-1,ETV plus
-http://185.176.117.242/live/eds/ETVplus/HLS_encr/ETVplus.m3u8
-#EXTINF:-1,Sport1 LT
-http://185.176.117.242/live/eds/Sport1/HLS_encr/index.m3u8
-#EXTINF:-1,Sport1 LT
-http://185.176.117.242/live/eds/Sport1/HLS_encr/Sport1.m3u8
-#EXTINF:-1,Sport1 LT
-https://185.176.117.242/live/eds/Sport1/HLS_encr/index.m3u8
-#EXTINF:-1,Sport1 LT
-https://185.176.117.242/live/eds/Sport1/HLS_encr/Sport1.m3u8
-#EXTINF:-1,viasatnature
-http://185.176.117.242/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
-#EXTINF:-1,nicktoons
-http://185.176.117.242/live/eds/Nicktoons/HLS_encr/index.m3u8
-#EXTINF:-1,tv1000
-http://185.176.117.242/live/eds/TV1000_SD/HLS_encr/index.m3u8
-#EXTINF:-1,tv1000action
-http://185.176.117.242/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
-#EXTINF:-1,ntvmir
-http://185.176.117.242/live/eds/NTV_Mir/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat_History
-http://185.176.117.242/live/eds/Viasat_History_SD/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat_Explorer
-http://185.176.117.242/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
-#EXTINF:-1,BBC
-http://185.176.117.242/live/eds/BBC/HLS_encr/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/index.m3u8
-#EXTINF:-1,CNN
-http://185.176.117.242/live/eds/CNN/HLS_encr/index.m3u8
-#EXTINF:-1,TV1000 Premium
-http://185.176.117.242/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
-#EXTINF:-1,Brazzers
-http://185.176.117.242/live/eds/Brazzers/HLS_encr/index.m3u8
-#EXTINF:-1,Playboy
-http://185.176.117.242/live/eds/Playboy/HLS_encr/index.m3u8
-#EXTINF:-1,Disney Channel
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
-#EXTINF:-1,Disney Junior
-http://185.176.117.242/live/eds/Disney_Junior/HLS_encr/index.m3u8
-#EXTINF:-1,3plus_LV_SD
-http://185.176.117.242/live/eds/3plus_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,Disney_XD
-http://185.176.117.242/live/eds/Disney_XD/HLS_encr/index.m3u8
-#EXTINF:-1,Entertainment
-http://185.176.117.242/live/eds/Entertainment/HLS_encr/index.m3u8
-#EXTINF:-1,ETV
-http://185.176.117.242/live/eds/ETV/HLS_encr/index.m3u8
-#EXTINF:-1,ETV2
-http://185.176.117.242/live/eds/ETV2/HLS_encr/index.m3u8
-#EXTINF:-1,FOX
-http://185.176.117.242/live/eds/FOX/HLS_encr/index.m3u8
-#EXTINF:-1,Kanal11
-http://185.176.117.242/live/eds/Kanal11/HLS_encr/index.m3u8
-#EXTINF:-1,Kanal12
-http://185.176.117.242/live/eds/Kanal12/HLS_encr/index.m3u8
-#EXTINF:-1,Kanals2_LV_SD
-http://185.176.117.242/live/eds/Kanals2_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,Kidzone
-http://185.176.117.242/live/eds/Kidzone/HLS_encr/index.m3u8
-#EXTINF:-1,LNK
-http://185.176.117.242/live/eds/LNK/HLS_encr/index.m3u8
-#EXTINF:-1,LNT_LV_SD
-http://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,LRT
-http://185.176.117.242/live/eds/LRT/HLS_encr/index.m3u8
-#EXTINF:-1,LTV1_LV_SD
-http://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,LTV7_LV_SD
-http://185.176.117.242/live/eds/LTV7_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,MTV_Hits
-http://185.176.117.242/live/eds/MTV_Hits/HLS_encr/index.m3u8
-#EXTINF:-1,Nick_JR
-http://185.176.117.242/live/eds/Nick_JR/HLS_encr/index.m3u8
-#EXTINF:-1,PBK
-http://185.176.117.242/live/eds/PBK/HLS_encr/index.m3u8
-#EXTINF:-1,Ren_TV
-http://185.176.117.242/live/eds/Ren_TV/HLS_encr/index.m3u8
-#EXTINF:-1,Setanta
-http://185.176.117.242/live/eds/Setanta/HLS_encr/index.m3u8
-#EXTINF:-1,TallinnaTV
-http://185.176.117.242/live/eds/TallinnaTV/HLS_encr/index.m3u8
-#EXTINF:-1,TV3_LT_SD
-http://185.176.117.242/live/eds/TV3_LT_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV3_LV_SD
-http://185.176.117.242/live/eds/TV3_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV6_LT_SD
-http://185.176.117.242/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV6_LV_SD
-http://185.176.117.242/live/eds/TV6_LV_SD/HLS_encr/index.m3u8
-#EXTINF:-1,TV8_LT_SD
-http://185.176.117.242/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
-#EXTINF:-1,VH1
-http://185.176.117.242/live/eds/VH1/HLS_encr/index.m3u8
-#EXTINF:-1,Sporta Centrs
-https://185.176.117.242/live/eds/SportaCentrs/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat History HD
-http://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
-#EXTINF:-1,LRT Lithuania
-http://185.176.117.242/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
-#EXTINF:-1,Sporta Centrs
-https://185.176.117.242/live/eds/SportaCentrs/HLS_encr/SportaCentrs.m3u8
-#EXTINF:-1,TV1000 Premium
-http://185.176.117.242/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
-#EXTINF:-1,TV3 LT HD
-http://185.176.117.242/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
-#EXTINF:-1,TV3 LV HD
-http://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/index.m3u8
-#EXTINF:-1,TV6 EE
-http://185.176.117.242/live/eds/TV6_EE_SD/HLS_encr/index.m3u8
-#EXTINF:-1,Disney_XD
-http://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1,LNT — Латвия
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1,TV3 Latvija
-https://185.176.117.242/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1,TV6 Latvija
-https://185.176.117.242/live/eds/TV6_LV_SD/HLS_encr/TV3_LV_SD.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV3_LV_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1,LTV1 — Латвия
-https://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LNT_LV_SD.m3u8
+https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LNT_LV_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Kanals 2
+https://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV8 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 Latvija
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,LTV1
+https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,LTV7
+https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-audio_20000=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20002=96000-video=2200000.m3u8
+#EXTINF:-1,LTV 7
+https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 EE
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 EE
+https://cdn2.tvplayhome.lt/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,LTV_Латвия
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20001=96000-video=2200001.m3u8
+#EXTINF:-1,TV3 plus
+https://cdn2.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 LV SD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 LT HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,LRT
+https://cdn2.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,LRT Lithuania
+https://cdn2.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,LNK
+https://cdn2.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV1
+https://cdn2.tvplayhome.lt/live/eds/TV1/HLS_encr/TV1-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,ETV
+https://cdn2.tvplayhome.lt/live/eds/ETV/HLS_encr/ETV-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,ETV 2
+https://cdn2.tvplayhome.lt/live/eds/ETV2/HLS_encr/ETV2-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Kanal 11
+https://cdn2.tvplayhome.lt/live/eds/Kanal11/HLS_encr/Kanal11-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Kanala 12
+https://cdn2.tvplayhome.lt/live/eds/Kanal12/HLS_encr/Kanal12-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Tallinna Televisioon
+https://cdn2.tvplayhome.lt/live/eds/TallinnaTV/HLS_encr/TallinnaTV-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Satellite TV
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,VH1
+https://cdn2.tvplayhome.lt/live/eds/VH1/HLS_encr/VH1-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,MTV Hits
+https://cdn2.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,NTV Mir Baltic
+https://cdn2.tvplayhome.lt/live/eds/NTV_Mir/HLS_encr/NTV_Mir-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,PBK
+https://cdn2.tvplayhome.lt/live/eds/PBK/HLS_encr/PBK-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Ren TV Baltic
+https://cdn2.tvplayhome.lt/live/eds/Ren_TV/HLS_encr/Ren_TV-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Kidzone
+https://cdn2.tvplayhome.lt/live/eds/Kidzone/HLS_encr/Kidzone-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV1000
+https://cdn2.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV1000 Action
+https://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,TV1000 Premium
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,BBC
+https://cdn2.tvplayhome.lt/live/eds/BBC/HLS_encr/BBC-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,CNN
+https://cdn2.tvplayhome.lt/live/eds/CNN/HLS_encr/CNN-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Disney Channel
+https://cdn2.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Nickelodeon
+https://cdn2.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/Nickelodeon-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Disney Junior
+https://cdn2.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/Disney_Junior-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Nick JR
+https://cdn2.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Nicktoons
+https://cdn2.tvplayhome.lt/live/eds/Nicktoons/HLS_encr/Nicktoons-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat Nature
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat History
+https://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat Explorer
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Setanta Sports
+https://cdn2.tvplayhome.lt/live/eds/Setanta/HLS_encr/Setanta-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Entertainment
+https://cdn2.tvplayhome.lt/live/eds/Entertainment/HLS_encr/Entertainment-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,National Geographic
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Brazzers
+https://cdn2.tvplayhome.lt/live/eds/Brazzers/HLS_encr/Brazzers-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Playboy
+https://cdn2.tvplayhome.lt/live/eds/Playboy/HLS_encr/Playboy-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1,ETV plus
-https://185.176.117.242/live/eds/ETVplus/HLS_encr/ETVplus.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ETVplus/HLS_encr/ETVplus-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Sport1 LT
+https://cdn2.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Disney Channel
+http://cdn2.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Brazzers
+http://cdn2.tvplayhome.lt/live/eds/Brazzers/HLS_encr//Brazzers-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Sporta Centrs
+https://cdn2.tvplayhome.lt/live/eds/SportaCentrs/HLS_encr/SportaCentrs-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,Disney_XD
+https://cdn2.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/Disney_XD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1,LNT — Латвия
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD.m3u8
+#EXTINF:-1,TV3 Latvija
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD.m3u8
+#EXTINF:-1,TV6 Latvija
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV3_LV_SD.m3u8
+#EXTINF:-1,LTV1 — Латвия
+https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LNT_LV_SD.m3u8
+#EXTINF:-1,Kanals 2
+https://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD.m3u8
+#EXTINF:-1,TV3 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8
+#EXTINF:-1,TV8 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
+#EXTINF:-1,TV6 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8
+#EXTINF:-1,TV6 Latvija
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD.m3u8
+#EXTINF:-1,LTV1
+https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
+#EXTINF:-1,LTV7
+https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD.m3u8
+#EXTINF:-1,TV3 EE
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD.m3u8
+#EXTINF:-1,TV6 EE
+https://cdn2.tvplayhome.lt/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD.m3u8
+#EXTINF:-1,TV3 plus
+https://cdn2.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
+#EXTINF:-1,TV3 LV SD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD.m3u8
+#EXTINF:-1,TV3 LT HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+#EXTINF:-1,LRT
+https://cdn2.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT.m3u8
+#EXTINF:-1,LRT Lithuania
+https://cdn2.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8
+#EXTINF:-1,LNK
+https://cdn2.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK.m3u8
+#EXTINF:-1,TV1
+https://cdn2.tvplayhome.lt/live/eds/TV1/HLS_encr/TV1.m3u8
+#EXTINF:-1,ETV
+https://cdn2.tvplayhome.lt/live/eds/ETV/HLS_encr/ETV.m3u8
+#EXTINF:-1,ETV 2
+https://cdn2.tvplayhome.lt/live/eds/ETV2/HLS_encr/ETV2.m3u8
+#EXTINF:-1,Kanal 11
+https://cdn2.tvplayhome.lt/live/eds/Kanal11/HLS_encr/Kanal11.m3u8
+#EXTINF:-1,Kanala 12
+https://cdn2.tvplayhome.lt/live/eds/Kanal12/HLS_encr/Kanal12.m3u8
+#EXTINF:-1,Tallinna Televisioon
+https://cdn2.tvplayhome.lt/live/eds/TallinnaTV/HLS_encr/TallinnaTV.m3u8
+#EXTINF:-1,Satellite TV
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1,VH1
+https://cdn2.tvplayhome.lt/live/eds/VH1/HLS_encr/VH1.m3u8
+#EXTINF:-1,MTV Hits
+https://cdn2.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1,NTV Mir Baltic
+https://cdn2.tvplayhome.lt/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
+#EXTINF:-1,PBK
+https://cdn2.tvplayhome.lt/live/eds/PBK/HLS_encr/PBK.m3u8
+#EXTINF:-1,Ren TV Baltic
+https://cdn2.tvplayhome.lt/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
+#EXTINF:-1,Kidzone
+https://cdn2.tvplayhome.lt/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+#EXTINF:-1,TV1000
+https://cdn2.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,TV1000 Action
+https://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1,TV1000 Premium
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,BBC
+https://cdn2.tvplayhome.lt/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1,CNN
+https://cdn2.tvplayhome.lt/live/eds/CNN/HLS_encr/CNN.m3u8
+#EXTINF:-1,Disney Channel
+https://cdn2.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1,Nickelodeon
+https://cdn2.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1,Disney Junior
+https://cdn2.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1,Nick JR
+https://cdn2.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1,Nicktoons
+https://cdn2.tvplayhome.lt/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1,Viasat Nature
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1,Viasat History
+https://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+#EXTINF:-1,Viasat Explorer
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+#EXTINF:-1,Setanta Sports
+https://cdn2.tvplayhome.lt/live/eds/Setanta/HLS_encr/Setanta.m3u8
+#EXTINF:-1,Entertainment
+https://cdn2.tvplayhome.lt/live/eds/Entertainment/HLS_encr/Entertainment.m3u8
+#EXTINF:-1,National Geographic
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,Brazzers
+https://cdn2.tvplayhome.lt/live/eds/Brazzers/HLS_encr/Brazzers.m3u8
+#EXTINF:-1,Playboy
+https://cdn2.tvplayhome.lt/live/eds/Playboy/HLS_encr/Playboy.m3u8
+#EXTINF:-1,ETV plus
+https://cdn2.tvplayhome.lt/live/eds/ETVplus/HLS_encr/ETVplus.m3u8
+#EXTINF:-1,Sport1 LT
+https://cdn2.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1.m3u8
 #EXTINF:-1,Viasat Explorer HD
-https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
+#EXTINF:-1,Viasat History HD
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
 #EXTINF:-1,Nickelodeon (EE)
-https://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon-audio.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/Nickelodeon-audio.m3u8
 #EXTINF:-1,ViasatHistoryHD (EN)
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio.m3u8
 #EXTINF:-1,Kidzone (LT)
-https://185.176.117.242/live/eds/Kidzone/HLS_encr/Kidzone-audio.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Kidzone/HLS_encr/Kidzone-audio.m3u8
 #EXTINF:-1,FOX (RU)
-https://185.176.117.242/live/eds/FOX/HLS_encr/FOX.m3u8
+https://cdn2.tvplayhome.lt/live/eds/FOX/HLS_encr/FOX.m3u8
 #EXTINF:-1,TV3_EE_HD
-https://185.176.117.242/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD-audio_20001=96000-video=5000000.m3u8
-#EXTINF:-1,Playboy
-https://185.176.117.242/live/eds/Playboy/HLS_encr/Playboy-audio_20000=96000-video=1200000.m3u8
-#EXTINF:-1,LTV_Латвия
-https://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20000=96000-video=2200001.m3u8
-#EXTINF:-1,LTV_Латвия
-https://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20002=96000-video=2200001.m3u8
-#EXTINF:-1,ViasatExploreHD (RU)
-https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20002=96000-video=5000000.m3u8
-#EXTINF:-1,ViasatHistoryHD (EN)
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20002=96000-video=5000000.m3u8
-#EXTINF:-1,NatGeoHD (EN)
-https://185.176.117.242/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20002=96000-video=5000000.m3u8
-#EXTINF:-1,EpicDramaHD (EN)
-https://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20002=96000-video=5000000.m3u8
-#EXTINF:-1,TV3_LV_HD
-https://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20002=96000-video=5500000.m3u8
-#EXTINF:-1,TV3_LT_HD
-https://185.176.117.242/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20002=96000-video=5500000.m3u8
-#EXTINF:-1,TV3_EE_HD
-https://185.176.117.242/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD-audio_20002=96000-video=5000000.m3u8
-#EXTINF:-1,LNT — Латвия
-https://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV3 Latvija
-https://185.176.117.242/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV6 Latvija
-https://185.176.117.242/live/eds/TV6_LV_SD/HLS_encr/TV3_LV_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,LTV1 — Латвия
-https://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LNT_LV_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Kanals 2
-https://185.176.117.242/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV3 Lietuva
-https://185.176.117.242/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV8 Lietuva
-https://185.176.117.242/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV6 Lietuva
-https://185.176.117.242/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV6 Latvija
-https://185.176.117.242/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,LTV1
-https://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,LTV 7
-https://185.176.117.242/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV3 EE
-https://185.176.117.242/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV6 EE
-https://185.176.117.242/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,LTV_Латвия
-https://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20003=96000-video=2200001.m3u8
-#EXTINF:-1,TV3 plus
-https://185.176.117.242/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV3 LV SD
-https://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV3 LT HD
-https://185.176.117.242/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,LRT
-https://185.176.117.242/live/eds/LRT/HLS_encr/LRT-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,LRT Lithuania
-https://185.176.117.242/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,LNK
-https://185.176.117.242/live/eds/LNK/HLS_encr/LNK-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV1
-https://185.176.117.242/live/eds/TV1/HLS_encr/TV1-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,ETV
-https://185.176.117.242/live/eds/ETV/HLS_encr/ETV-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,ETV 2
-https://185.176.117.242/live/eds/ETV2/HLS_encr/ETV2-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Kanal 11
-https://185.176.117.242/live/eds/Kanal11/HLS_encr/Kanal11-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Kanala 12
-https://185.176.117.242/live/eds/Kanal12/HLS_encr/Kanal12-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Tallinna Televisioon
-https://185.176.117.242/live/eds/TallinnaTV/HLS_encr/TallinnaTV-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Satellite TV
-https://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,VH1
-https://185.176.117.242/live/eds/VH1/HLS_encr/VH1-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,MTV Hits
-https://185.176.117.242/live/eds/MTV_Hits/HLS_encr/MTV_Hits-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,NTV Mir Baltic
-https://185.176.117.242/live/eds/NTV_Mir/HLS_encr/NTV_Mir-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,PBK
-https://185.176.117.242/live/eds/PBK/HLS_encr/PBK-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Ren TV Baltic
-https://185.176.117.242/live/eds/Ren_TV/HLS_encr/Ren_TV-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV1000
-https://185.176.117.242/live/eds/TV1000_SD/HLS_encr/TV1000_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV1000 Action
-https://185.176.117.242/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV1000 Premium
-https://185.176.117.242/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,BBC
-https://185.176.117.242/live/eds/BBC/HLS_encr/BBC-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,CNN
-https://185.176.117.242/live/eds/CNN/HLS_encr/CNN-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Disney Channel
-https://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Disney Junior
-https://185.176.117.242/live/eds/Disney_Junior/HLS_encr/Disney_Junior-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Nick JR
-https://185.176.117.242/live/eds/Nick_JR/HLS_encr/Nick_JR-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Nicktoons
-https://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Viasat Nature
-https://185.176.117.242/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Viasat History
-https://185.176.117.242/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Viasat Explorer
-https://185.176.117.242/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Setanta Sports
-https://185.176.117.242/live/eds/Setanta/HLS_encr/Setanta-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Entertainment
-https://185.176.117.242/live/eds/Entertainment/HLS_encr/Entertainment-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,National Geographic
-https://185.176.117.242/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Brazzers
-https://185.176.117.242/live/eds/Brazzers/HLS_encr/Brazzers-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Playboy
-https://185.176.117.242/live/eds/Playboy/HLS_encr/Playboy-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,ETV plus
-https://185.176.117.242/live/eds/ETVplus/HLS_encr/ETVplus-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Sport1 LT
-https://185.176.117.242/live/eds/Sport1/HLS_encr/Sport1-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Viasat Explorer HD
-https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Viasat History HD
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Fox
-https://185.176.117.242/live/eds/FOX/HLS_encr/FOX-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,ViasatExploreHD (RU)
-https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20003=96000-video=5000000.m3u8
-#EXTINF:-1,ViasatHistoryHD (EN)
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20003=96000-video=5000000.m3u8
-#EXTINF:-1,NatGeoHD (EN)
-https://185.176.117.242/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20003=96000-video=5000000.m3u8
-#EXTINF:-1,EpicDramaHD (EN)
-https://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20003=96000-video=5000000.m3u8
-#EXTINF:-1,TV3_LV_HD
-https://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20003=96000-video=5500000.m3u8
-#EXTINF:-1,TV3_LT_HD
-https://185.176.117.242/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20003=96000-video=5500000.m3u8
-#EXTINF:-1,TV3_EE_HD
-https://185.176.117.242/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD-audio_20003=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD-audio_20001=96000-video=5000000.m3u8
 #EXTINF:-1,Disney_XD (RU)
-https://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,LNT — Латвия
-https://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV3 Latvija
-https://185.176.117.242/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV6 Latvija
-https://185.176.117.242/live/eds/TV6_LV_SD/HLS_encr/TV3_LV_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,LTV1 — Латвия
-https://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LNT_LV_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Kanals 2
-https://185.176.117.242/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV3 Lietuva
-https://185.176.117.242/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV8 Lietuva
-https://185.176.117.242/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV6 Lietuva
-https://185.176.117.242/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV6 Latvija
-https://185.176.117.242/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,LTV1
-https://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,LTV 7
-https://185.176.117.242/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV3 EE
-https://185.176.117.242/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV6 EE
-https://185.176.117.242/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,LTV_Латвия
-https://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20004=96000-video=2200001.m3u8
-#EXTINF:-1,TV3 plus
-https://185.176.117.242/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV3 LV SD
-https://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV3 LT HD
-https://185.176.117.242/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,LRT
-https://185.176.117.242/live/eds/LRT/HLS_encr/LRT-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,LRT Lithuania
-https://185.176.117.242/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,LNK
-https://185.176.117.242/live/eds/LNK/HLS_encr/LNK-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV1
-https://185.176.117.242/live/eds/TV1/HLS_encr/TV1-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,ETV
-https://185.176.117.242/live/eds/ETV/HLS_encr/ETV-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,ETV 2
-https://185.176.117.242/live/eds/ETV2/HLS_encr/ETV2-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Kanal 11
-https://185.176.117.242/live/eds/Kanal11/HLS_encr/Kanal11-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Kanala 12
-https://185.176.117.242/live/eds/Kanal12/HLS_encr/Kanal12-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Tallinna Televisioon
-https://185.176.117.242/live/eds/TallinnaTV/HLS_encr/TallinnaTV-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Satellite TV
-https://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,VH1
-https://185.176.117.242/live/eds/VH1/HLS_encr/VH1-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,MTV Hits
-https://185.176.117.242/live/eds/MTV_Hits/HLS_encr/MTV_Hits-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,NTV Mir Baltic
-https://185.176.117.242/live/eds/NTV_Mir/HLS_encr/NTV_Mir-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,PBK
-https://185.176.117.242/live/eds/PBK/HLS_encr/PBK-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Ren TV Baltic
-https://185.176.117.242/live/eds/Ren_TV/HLS_encr/Ren_TV-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV1000
-https://185.176.117.242/live/eds/TV1000_SD/HLS_encr/TV1000_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV1000 Action
-https://185.176.117.242/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,TV1000 Premium
-https://185.176.117.242/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,BBC
-https://185.176.117.242/live/eds/BBC/HLS_encr/BBC-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,CNN
-https://185.176.117.242/live/eds/CNN/HLS_encr/CNN-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Disney Channel
-https://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Disney Junior
-https://185.176.117.242/live/eds/Disney_Junior/HLS_encr/Disney_Junior-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Nick JR
-https://185.176.117.242/live/eds/Nick_JR/HLS_encr/Nick_JR-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Nicktoons
-https://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Viasat Nature
-https://185.176.117.242/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Viasat History
-https://185.176.117.242/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Viasat Explorer
-https://185.176.117.242/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Setanta Sports
-https://185.176.117.242/live/eds/Setanta/HLS_encr/Setanta-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Entertainment
-https://185.176.117.242/live/eds/Entertainment/HLS_encr/Entertainment-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,National Geographic
-https://185.176.117.242/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Brazzers
-https://185.176.117.242/live/eds/Brazzers/HLS_encr/Brazzers-audio_20004=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
 #EXTINF:-1,Playboy
-https://185.176.117.242/live/eds/Playboy/HLS_encr/Playboy-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,ETV plus
-https://185.176.117.242/live/eds/ETVplus/HLS_encr/ETVplus-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Sport1 LT
-https://185.176.117.242/live/eds/Sport1/HLS_encr/Sport1-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Viasat Explorer HD
-https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Viasat History HD
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,Fox
-https://185.176.117.242/live/eds/FOX/HLS_encr/FOX-audio_20004=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Playboy/HLS_encr/Playboy-audio_20000=96000-video=1200000.m3u8
+#EXTINF:-1,LTV_Латвия
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20000=96000-video=2200001.m3u8
+#EXTINF:-1,LTV_Латвия
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20002=96000-video=2200001.m3u8
 #EXTINF:-1,ViasatExploreHD (RU)
-https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20004=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20002=96000-video=5000000.m3u8
 #EXTINF:-1,ViasatHistoryHD (EN)
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20004=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20002=96000-video=5000000.m3u8
 #EXTINF:-1,NatGeoHD (EN)
-https://185.176.117.242/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20004=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20002=96000-video=5000000.m3u8
+#EXTINF:-1,EpicDramaHD (EN)
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20002=96000-video=5000000.m3u8
+#EXTINF:-1,TV3_LV_HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20002=96000-video=5500000.m3u8
+#EXTINF:-1,TV3_LT_HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20002=96000-video=5500000.m3u8
+#EXTINF:-1,TV3_EE_HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD-audio_20002=96000-video=5000000.m3u8
+#EXTINF:-1,LNT — Латвия
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 Latvija
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 Latvija
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV3_LV_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,LTV1 — Латвия
+https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LNT_LV_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Kanals 2
+https://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV8 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 Latvija
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,LTV1
+https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,LTV 7
+https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 EE
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 EE
+https://cdn2.tvplayhome.lt/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,LTV_Латвия
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20003=96000-video=2200001.m3u8
+#EXTINF:-1,TV3 plus
+https://cdn2.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 LV SD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 LT HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,LRT
+https://cdn2.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,LRT Lithuania
+https://cdn2.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,LNK
+https://cdn2.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV1
+https://cdn2.tvplayhome.lt/live/eds/TV1/HLS_encr/TV1-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,ETV
+https://cdn2.tvplayhome.lt/live/eds/ETV/HLS_encr/ETV-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,ETV 2
+https://cdn2.tvplayhome.lt/live/eds/ETV2/HLS_encr/ETV2-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Kanal 11
+https://cdn2.tvplayhome.lt/live/eds/Kanal11/HLS_encr/Kanal11-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Kanala 12
+https://cdn2.tvplayhome.lt/live/eds/Kanal12/HLS_encr/Kanal12-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Tallinna Televisioon
+https://cdn2.tvplayhome.lt/live/eds/TallinnaTV/HLS_encr/TallinnaTV-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Satellite TV
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,VH1
+https://cdn2.tvplayhome.lt/live/eds/VH1/HLS_encr/VH1-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,MTV Hits
+https://cdn2.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,NTV Mir Baltic
+https://cdn2.tvplayhome.lt/live/eds/NTV_Mir/HLS_encr/NTV_Mir-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,PBK
+https://cdn2.tvplayhome.lt/live/eds/PBK/HLS_encr/PBK-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Ren TV Baltic
+https://cdn2.tvplayhome.lt/live/eds/Ren_TV/HLS_encr/Ren_TV-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV1000
+https://cdn2.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV1000 Action
+https://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,TV1000 Premium
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,BBC
+https://cdn2.tvplayhome.lt/live/eds/BBC/HLS_encr/BBC-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,CNN
+https://cdn2.tvplayhome.lt/live/eds/CNN/HLS_encr/CNN-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Disney Channel
+https://cdn2.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Disney Junior
+https://cdn2.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/Disney_Junior-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Nick JR
+https://cdn2.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Nicktoons
+https://cdn2.tvplayhome.lt/live/eds/Nicktoons/HLS_encr/Nicktoons-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat Nature
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat History
+https://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat Explorer
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Setanta Sports
+https://cdn2.tvplayhome.lt/live/eds/Setanta/HLS_encr/Setanta-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Entertainment
+https://cdn2.tvplayhome.lt/live/eds/Entertainment/HLS_encr/Entertainment-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,National Geographic
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Brazzers
+https://cdn2.tvplayhome.lt/live/eds/Brazzers/HLS_encr/Brazzers-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Playboy
+https://cdn2.tvplayhome.lt/live/eds/Playboy/HLS_encr/Playboy-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,ETV plus
+https://cdn2.tvplayhome.lt/live/eds/ETVplus/HLS_encr/ETVplus-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Sport1 LT
+https://cdn2.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat Explorer HD
+https://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat History HD
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Fox
+https://cdn2.tvplayhome.lt/live/eds/FOX/HLS_encr/FOX-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,ViasatExploreHD (RU)
+https://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20003=96000-video=5000000.m3u8
+#EXTINF:-1,ViasatHistoryHD (EN)
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20003=96000-video=5000000.m3u8
+#EXTINF:-1,NatGeoHD (EN)
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20003=96000-video=5000000.m3u8
+#EXTINF:-1,EpicDramaHD (EN)
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20003=96000-video=5000000.m3u8
+#EXTINF:-1,TV3_LV_HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20003=96000-video=5500000.m3u8
+#EXTINF:-1,TV3_LT_HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20003=96000-video=5500000.m3u8
+#EXTINF:-1,TV3_EE_HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD-audio_20003=96000-video=5000000.m3u8
+#EXTINF:-1,Disney_XD (RU)
+https://cdn2.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/Disney_XD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,LNT — Латвия
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 Latvija
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 Latvija
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV3_LV_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,LTV1 — Латвия
+https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LNT_LV_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Kanals 2
+https://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV8 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 Lietuva
+https://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 Latvija
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,LTV1
+https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,LTV 7
+https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 EE
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV6 EE
+https://cdn2.tvplayhome.lt/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,LTV_Латвия
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20004=96000-video=2200001.m3u8
+#EXTINF:-1,TV3 plus
+https://cdn2.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 LV SD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV3 LT HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,LRT
+https://cdn2.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,LRT Lithuania
+https://cdn2.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,LNK
+https://cdn2.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV1
+https://cdn2.tvplayhome.lt/live/eds/TV1/HLS_encr/TV1-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,ETV
+https://cdn2.tvplayhome.lt/live/eds/ETV/HLS_encr/ETV-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,ETV 2
+https://cdn2.tvplayhome.lt/live/eds/ETV2/HLS_encr/ETV2-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Kanal 11
+https://cdn2.tvplayhome.lt/live/eds/Kanal11/HLS_encr/Kanal11-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Kanala 12
+https://cdn2.tvplayhome.lt/live/eds/Kanal12/HLS_encr/Kanal12-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Tallinna Televisioon
+https://cdn2.tvplayhome.lt/live/eds/TallinnaTV/HLS_encr/TallinnaTV-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Satellite TV
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,VH1
+https://cdn2.tvplayhome.lt/live/eds/VH1/HLS_encr/VH1-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,MTV Hits
+https://cdn2.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,NTV Mir Baltic
+https://cdn2.tvplayhome.lt/live/eds/NTV_Mir/HLS_encr/NTV_Mir-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,PBK
+https://cdn2.tvplayhome.lt/live/eds/PBK/HLS_encr/PBK-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Ren TV Baltic
+https://cdn2.tvplayhome.lt/live/eds/Ren_TV/HLS_encr/Ren_TV-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV1000
+https://cdn2.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV1000 Action
+https://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,TV1000 Premium
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,BBC
+https://cdn2.tvplayhome.lt/live/eds/BBC/HLS_encr/BBC-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,CNN
+https://cdn2.tvplayhome.lt/live/eds/CNN/HLS_encr/CNN-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Disney Channel
+https://cdn2.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Disney Junior
+https://cdn2.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/Disney_Junior-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Nick JR
+https://cdn2.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Nicktoons
+https://cdn2.tvplayhome.lt/live/eds/Nicktoons/HLS_encr/Nicktoons-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat Nature
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat History
+https://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat Explorer
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Setanta Sports
+https://cdn2.tvplayhome.lt/live/eds/Setanta/HLS_encr/Setanta-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Entertainment
+https://cdn2.tvplayhome.lt/live/eds/Entertainment/HLS_encr/Entertainment-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,National Geographic
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Brazzers
+https://cdn2.tvplayhome.lt/live/eds/Brazzers/HLS_encr/Brazzers-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Playboy
+https://cdn2.tvplayhome.lt/live/eds/Playboy/HLS_encr/Playboy-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,ETV plus
+https://cdn2.tvplayhome.lt/live/eds/ETVplus/HLS_encr/ETVplus-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Sport1 LT
+https://cdn2.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat Explorer HD
+https://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat History HD
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,Fox
+https://cdn2.tvplayhome.lt/live/eds/FOX/HLS_encr/FOX-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,ViasatExploreHD (RU)
+https://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20004=96000-video=5000000.m3u8
+#EXTINF:-1,ViasatHistoryHD (EN)
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20004=96000-video=5000000.m3u8
+#EXTINF:-1,NatGeoHD (EN)
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20004=96000-video=5000000.m3u8
 #EXTINF:-1,TV1000PremiumHD (LV)
-https://185.176.117.242/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20004=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20004=96000-video=5000000.m3u8
 #EXTINF:-1,EpicDramaHD (EN)
-https://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20004=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20004=96000-video=5000000.m3u8
 #EXTINF:-1,TV3_LV_HD
-https://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20004=96000-video=5500000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20004=96000-video=5500000.m3u8
 #EXTINF:-1,TV3_LT_HD
-https://185.176.117.242/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20004=96000-video=5500000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20004=96000-video=5500000.m3u8
 #EXTINF:-1,TV3_EE_HD
-https://185.176.117.242/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD-audio_20004=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD-audio_20004=96000-video=5000000.m3u8
 #EXTINF:-1,Disney_XD (RU)
-https://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD-audio_20004=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/Disney_XD-audio_20004=96000-video=2200000.m3u8
 #EXTINF:-1,LNT — Латвия
-https://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV3 Latvija
-https://185.176.117.242/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV6 Latvija
-https://185.176.117.242/live/eds/TV6_LV_SD/HLS_encr/TV3_LV_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV3_LV_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,LTV1 — Латвия
-https://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LNT_LV_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LNT_LV_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Kanals 2
-https://185.176.117.242/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV3 Lietuva
-https://185.176.117.242/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV8 Lietuva
-https://185.176.117.242/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV6 Lietuva
-https://185.176.117.242/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV6 Latvija
-https://185.176.117.242/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,LTV1
-https://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,LTV 7
-https://185.176.117.242/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV3 EE
-https://185.176.117.242/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV6 EE
-https://185.176.117.242/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,LTV_Латвия
-https://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20005=96000-video=2200001.m3u8
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20005=96000-video=2200001.m3u8
 #EXTINF:-1,TV3 plus
-https://185.176.117.242/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV3 LV SD
-https://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV3 LT HD
-https://185.176.117.242/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,LRT
-https://185.176.117.242/live/eds/LRT/HLS_encr/LRT-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,LRT Lithuania
-https://185.176.117.242/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,LNK
-https://185.176.117.242/live/eds/LNK/HLS_encr/LNK-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV1
-https://185.176.117.242/live/eds/TV1/HLS_encr/TV1-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV1/HLS_encr/TV1-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,ETV
-https://185.176.117.242/live/eds/ETV/HLS_encr/ETV-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ETV/HLS_encr/ETV-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,ETV 2
-https://185.176.117.242/live/eds/ETV2/HLS_encr/ETV2-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ETV2/HLS_encr/ETV2-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Kanal 11
-https://185.176.117.242/live/eds/Kanal11/HLS_encr/Kanal11-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Kanal11/HLS_encr/Kanal11-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Kanala 12
-https://185.176.117.242/live/eds/Kanal12/HLS_encr/Kanal12-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Kanal12/HLS_encr/Kanal12-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Tallinna Televisioon
-https://185.176.117.242/live/eds/TallinnaTV/HLS_encr/TallinnaTV-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TallinnaTV/HLS_encr/TallinnaTV-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Satellite TV
-https://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,VH1
-https://185.176.117.242/live/eds/VH1/HLS_encr/VH1-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/VH1/HLS_encr/VH1-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,MTV Hits
-https://185.176.117.242/live/eds/MTV_Hits/HLS_encr/MTV_Hits-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,NTV Mir Baltic
-https://185.176.117.242/live/eds/NTV_Mir/HLS_encr/NTV_Mir-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/NTV_Mir/HLS_encr/NTV_Mir-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,PBK
-https://185.176.117.242/live/eds/PBK/HLS_encr/PBK-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/PBK/HLS_encr/PBK-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Ren TV Baltic
-https://185.176.117.242/live/eds/Ren_TV/HLS_encr/Ren_TV-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Ren_TV/HLS_encr/Ren_TV-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Kidzone
-https://185.176.117.242/live/eds/Kidzone/HLS_encr/Kidzone-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Kidzone/HLS_encr/Kidzone-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV1000
-https://185.176.117.242/live/eds/TV1000_SD/HLS_encr/TV1000_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV1000 Action
-https://185.176.117.242/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,TV1000 Premium
-https://185.176.117.242/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,BBC
-https://185.176.117.242/live/eds/BBC/HLS_encr/BBC-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/BBC/HLS_encr/BBC-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,CNN
-https://185.176.117.242/live/eds/CNN/HLS_encr/CNN-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/CNN/HLS_encr/CNN-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Disney Channel
-https://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Nickelodeon
-https://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/Nickelodeon-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Disney Junior
-https://185.176.117.242/live/eds/Disney_Junior/HLS_encr/Disney_Junior-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/Disney_Junior-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Nick JR
-https://185.176.117.242/live/eds/Nick_JR/HLS_encr/Nick_JR-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Nicktoons
-https://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Nicktoons/HLS_encr/Nicktoons-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Viasat Nature
-https://185.176.117.242/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Viasat History
-https://185.176.117.242/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Viasat Explorer
-https://185.176.117.242/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Setanta Sports
-https://185.176.117.242/live/eds/Setanta/HLS_encr/Setanta-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Setanta/HLS_encr/Setanta-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Entertainment
-https://185.176.117.242/live/eds/Entertainment/HLS_encr/Entertainment-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Entertainment/HLS_encr/Entertainment-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,National Geographic
-https://185.176.117.242/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Brazzers
-https://185.176.117.242/live/eds/Brazzers/HLS_encr/Brazzers-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Brazzers/HLS_encr/Brazzers-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Playboy
-https://185.176.117.242/live/eds/Playboy/HLS_encr/Playboy-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Playboy/HLS_encr/Playboy-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,ETV plus
-https://185.176.117.242/live/eds/ETVplus/HLS_encr/ETVplus-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ETVplus/HLS_encr/ETVplus-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Sport1 LT
-https://185.176.117.242/live/eds/Sport1/HLS_encr/Sport1-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Viasat Explorer HD
-https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Viasat History HD
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,Fox
-https://185.176.117.242/live/eds/FOX/HLS_encr/FOX-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/FOX/HLS_encr/FOX-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,ViasatExploreHD (RU)
-https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20005=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20005=96000-video=5000000.m3u8
 #EXTINF:-1,ViasatHistoryHD (EN)
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20005=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20005=96000-video=5000000.m3u8
 #EXTINF:-1,NatGeoHD (EN)
-https://185.176.117.242/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20005=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20005=96000-video=5000000.m3u8
 #EXTINF:-1,TV1000PremiumHD (LV)
-https://185.176.117.242/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20005=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20005=96000-video=5000000.m3u8
 #EXTINF:-1,EpicDramaHD (EN)
-https://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20005=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20005=96000-video=5000000.m3u8
 #EXTINF:-1,TV3_LV_HD
-https://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20005=96000-video=5500000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20005=96000-video=5500000.m3u8
 #EXTINF:-1,TV3_LT_HD
-https://185.176.117.242/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20005=96000-video=5500000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-audio_20005=96000-video=5500000.m3u8
 #EXTINF:-1,TV3_EE_HD
-https://185.176.117.242/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD-audio_20005=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD-audio_20005=96000-video=5000000.m3u8
 #EXTINF:-1,Disney_XD (RU)
-https://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD-audio_20005=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/Disney_XD-audio_20005=96000-video=2200000.m3u8
 #EXTINF:-1,LTV_Латвия
-https://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20006=96000-video=2200001.m3u8
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20006=96000-video=2200001.m3u8
 #EXTINF:-1,ViasatExploreHD (RU)
-https://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20006=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20006=96000-video=5000000.m3u8
 #EXTINF:-1,ViasatHistoryHD (EN)
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20006=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20006=96000-video=5000000.m3u8
 #EXTINF:-1,NatGeoHD (EN)
-https://185.176.117.242/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20006=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20006=96000-video=5000000.m3u8
 #EXTINF:-1,TV1000PremiumHD (LV)
-https://185.176.117.242/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20006=96000-video=5000000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20006=96000-video=5000000.m3u8
 #EXTINF:-1,EpicDramaHD (EN)
-https://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20006=96000-video=5000000.m3u8
-#EXTINF:-1,Disney Channel
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,Brazzers
-http://185.176.117.242/live/eds/Brazzers/HLS_encr//Brazzers-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV3 Latvia HD
-http://185.176.117.242/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD.m3u8
-#EXTINF:-1,TV3 Latvia sd
-http://185.176.117.242/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD.m3u8
-#EXTINF:-1,ViasatHistoryHD
-http://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
-#EXTINF:-1,NatGeoHD
-http://185.176.117.242/live/eds/NatGeoHD/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat Explorer HD
-http://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
-#EXTINF:-1,TV1000Premium SD
-https://185.176.117.242/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-audio_20003=96000-video=2200000.m3u8
-#EXTINF:-1,TV1000Premium SD
-http://185.176.117.242/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD.m3u8
-#EXTINF:-1,Sport 1
-http://185.176.117.242/live/eds/Sport1/HLS_encr/Sport1-audio_20004=96000-video=2200000.m3u8
-#EXTINF:-1,ETV Plus
-https://185.176.117.242/live/eds/ETVplus/HLS_encr/ETVplus-audio_20000=96000-video=5000000.m3u8
-#EXTINF:-1,ETV Plus ru
-https://185.176.117.242/live/eds/ETVplus/HLS_encr/ETVplus-audio_20001=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20006=96000-video=5000000.m3u8
+#EXTINF:-1,Sporta Centrs
+https://cdn2.tvplayhome.lt/live/eds/SportaCentrs/HLS_encr/SportaCentrs.m3u8
 #EXTINF:-1,TV3 (Opt-1) (New!)
-https://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20000=96000-video=5500000.m3u8
-#EXTINF:-1,Viasat History HD
-https://185.176.117.242/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20001=96000-video=5500000.m3u8
-#EXTINF:-1,Kanal2 EE
-http://185.176.117.242/live/eds/Kanal2/HLS_encr/Kanal2.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20001=96000-video=5500000.m3u8
+#EXTINF:-1,РЕН TV Baltic
+https://cdn2.tvplayhome.lt/live/eds/Ren_TV/HLS_encr/Ren_TV-audio_20000=96000-video=2200000.m3u8
+#EXTINF:-1,НТВ Mir Baltic
+https://cdn2.tvplayhome.lt/live/eds/NTV_Mir/HLS_encr/NTV_Mir-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1,Satellite TV
-https://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20000=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1,TV1000 Action HD
-https://185.176.117.242/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-audio_20000=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1,Disney Channel
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20001=96000-video=2200000.m3u8
+http://cdn2.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1,Disney_XD
-https://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD-audio_20002=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/Disney_XD-audio_20002=96000-video=2200000.m3u8
 #EXTINF:-1,Viasat Nature
-https://185.176.117.242/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-audio_20000=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1,Viasat History
-https://185.176.117.242/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-audio_20000=96000-video=2200000.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1,Viasat Explorer
-https://185.176.117.242/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-audio_20000=96000-video=2200000.m3u8
-#EXTINF:-1,LTV1 576p
-http://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-mp4a_96000_lav=10-avc1_600000=3.m3u8
-#EXTINF:-1,LTV1 576p
-http://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-mp4a_96000_lav=10-avc1_1200000=2.m3u8
-#EXTINF:-1,LTV1 576p
-http://185.176.117.242/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-mp4a_96000_lav=10-avc1_2200000=1.m3u8
-#EXTINF:-1,LTV7 576p
-http://185.176.117.242/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-mp4a_96000_lav=1-avc1_600000=4.m3u8
-#EXTINF:-1,LTV7 576p
-http://185.176.117.242/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-mp4a_96000_lav=1-avc1_1200000=3.m3u8
-#EXTINF:-1,LTV7 576p
-http://185.176.117.242/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-mp4a_96000_lav=1-avc1_2200000=2.m3u8
-#EXTINF:-1,TV3 LV SD 576p
-http://185.176.117.242/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-mp4a_96000_lav=9-avc1_600000=15.m3u8
-#EXTINF:-1,TV3 LV SD 576p
-http://185.176.117.242/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-mp4a_96000_lav=9-avc1_1200000=14.m3u8
-#EXTINF:-1,TV3 LV SD 576p
-http://185.176.117.242/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-mp4a_96000_lav=9-avc1_2200000=13.m3u8
-#EXTINF:-1,TV3 LV HD 576p
-http://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-mp4a_96000_lav=5-avc1_1000000=11.m3u8
-#EXTINF:-1,TV3 LV HD 720p
-http://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-mp4a_96000_lav=5-avc1_2000000=10.m3u8
-#EXTINF:-1,TV3 LV HD 1080p
-http://185.176.117.242/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-mp4a_96000_lav=5-avc1_5500000=9.m3u8
-#EXTINF:-1,LNT 576p
-http://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-mp4a_96000_lav=9-avc1_600000=13.m3u8
-#EXTINF:-1,LNT 576p
-http://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-mp4a_96000_lav=9-avc1_1200000=15.m3u8
-#EXTINF:-1,LNT 576p
-http://185.176.117.242/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-mp4a_96000_lav=9-avc1_2200000=14.m3u8
-#EXTINF:-1,TV6 LV HD
-https://185.176.117.242/live/eds/TV6_LV_HD/HLS_encr/index.m3u8
-#EXTINF:-1,TV6 LV HD
-http://185.176.117.242/live/eds/TV6_LV_HD/HLS_encr/TV6_LV_HD.m3u8
-#EXTINF:-1,Riga TV 24
-http://185.176.117.242/live/eds/T24Riga/HLS_encr/T24Riga.m3u8
-#EXTINF:-1,Riga TV 24
-https://185.176.117.242/live/eds/T24Riga/HLS_encr/index.m3u8
-#EXTINF:-1,ReTV
-http://185.176.117.242/live/eds/ReTV/HLS_encr/ReTV.m3u8
-#EXTINF:-1,ReTV
-https://185.176.117.242/live/eds/ReTV/HLS_encr/index.m3u8
-#EXTINF:-1,TV6 LT
-http://185.176.117.242/live/eds/TV6_LT_HD/HLS_encr/TV6_LT_HD.m3u8
-#EXTINF:-1,TV6 LT
-https://185.176.117.242/live/eds/TV6_LT_HD/HLS_encr/index.m3u8
-#EXTINF:-1,Lietuvos rytas TV
-http://185.176.117.242/live/eds/Lietuvos_Ryto_TV/HLS_encr/Lietuvos_Ryto_TV.m3u8
-#EXTINF:-1,Lietuvos rytas TV
-https://185.176.117.242/live/eds/Lietuvos_Ryto_TV/HLS_encr/index.m3u8
-#EXTINF:-1,Info TV
-http://185.176.117.242/live/eds/InfoTV/HLS_encr/InfoTV.m3u8
-#EXTINF:-1,Info TV
-https://185.176.117.242/live/eds/InfoTV/HLS_encr/index.m3u8
-#EXTINF:-1,My Hits
-http://185.176.117.242/live/eds/My_Hits/HLS_encr/My_Hits.m3u8
-#EXTINF:-1,My Hits
-https://185.176.117.242/live/eds/My_Hits/HLS_encr/index.m3u8
-#EXTINF:-1,LRT Plius
-http://185.176.117.242/live/eds/LRTKultura/HLS_encr/LRTKultura.m3u8
-#EXTINF:-1,LRT Plius
-https://185.176.117.242/live/eds/LRTKultura/HLS_encr/index.m3u8
-#EXTINF:-1,FOX LT
-http://185.176.117.242/live/eds/FOX_LT/HLS_encr/FOX_LT.m3u8
-#EXTINF:-1,FOX LT
-https://185.176.117.242/live/eds/FOX_LT/HLS_encr/index.m3u8
-#EXTINF:-1,Esports
-http://185.176.117.242/live/eds/EsportHD/HLS_encr/EsportHD.m3u8
-#EXTINF:-1,Esports
-https://185.176.117.242/live/eds/EsportHD/HLS_encr/index.m3u8
-#EXTINF:-1,ETV
-https://185.176.117.242/live/eds/ETVplus/HLS_encr/index.m3u8
-#EXTINF:-1,TV6 EE HD
-https://185.176.117.242/live/eds/TV6_EE_HD/HLS_encr/index.m3u8
-#EXTINF:-1,TV6 EE SD
-http://185.176.117.242/live/eds/TV6_EE_HD/HLS_encr/TV6_EE_HD.m3u8
-#EXTINF:-1,Kanal 2
-https://185.176.117.242/live/eds/Kanal2/HLS_encr/index.m3u8
-#EXTINF:-1,NTV Mir Baltic LT
-http://185.176.117.242/live/eds/NTV_Mir_Baltic_LT/HLS_encr/NTV_Mir_Baltic_LT.m3u8
-#EXTINF:-1,NTV Mir Baltic LT
-https://185.176.117.242/live/eds/NTV_Mir_Baltic_LT/HLS_encr/index.m3u8
-#EXTINF:-1,Ren TV Baltic LT
-http://185.176.117.242/live/eds/Ren_TV_LT/HLS_encr/Ren_TV_LT.m3u8
-#EXTINF:-1,Ren TV Baltic LT
-https://185.176.117.242/live/eds/Ren_TV_LT/HLS_encr/index.m3u8
-#EXTINF:-1,TV1000 Ruskoje kino
-http://185.176.117.242/live/eds/TV1000_rus_kino_SD/HLS_encr/TV1000_rus_kino_SD.m3u8
-#EXTINF:-1,TV1000 Ruskoje kino
-https://185.176.117.242/live/eds/TV1000_rus_kino_SD/HLS_encr/index.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-audio_20000=96000-video=2200000.m3u8
+#EXTINF:-1,National Geographic HD
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20000=96000-video=2200000.m3u8
+#EXTINF:-1,Viasat History HD
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-audio_20001=96000-video=5500000.m3u8
 #EXTINF:-1,Viasat Explorer HD
-http://185.176.117.242/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
+https://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-audio_20001=96000-video=5500000.m3u8
+#EXTINF:-1,Kanal2
+https://cdn2.tvplayhome.lt/live/eds/Kanal2/HLS_encr/Kanal2.m3u8
+#EXTINF:-1,LNT Larvia
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20000=96000-video=600000.m3u8
+#EXTINF:-1,LTV1
+http://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
+#EXTINF:-1,LTV7
+http://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD.m3u8
+#EXTINF:-1,TV3 LV SD
+http://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD.m3u8
+#EXTINF:-1,LNT
+http://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD.m3u8
+#EXTINF:-1,TV6 LV
+http://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD.m3u8
+#EXTINF:-1,Kanāls 2
+http://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD.m3u8
+#EXTINF:-1,TV3 Plus
+http://cdn2.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
+#EXTINF:-1,TV3 LT SD
+http://cdn2.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8
+#EXTINF:-1,TV3 LT HD
+http://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+#EXTINF:-1,TV6 LT
+http://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8
+#EXTINF:-1,TV8 LT
+http://cdn2.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
+#EXTINF:-1,LRT
+http://cdn2.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT.m3u8
+#EXTINF:-1,LRT Lithuania
+http://cdn2.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8
+#EXTINF:-1,LNK
+http://cdn2.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK.m3u8
+#EXTINF:-1,TV1
+http://cdn2.tvplayhome.lt/live/eds/TV1/HLS_encr/TV1.m3u8
+#EXTINF:-1,ETV
+http://cdn2.tvplayhome.lt/live/eds/ETV/HLS_encr/ETV.m3u8
+#EXTINF:-1,ETV 2
+http://cdn2.tvplayhome.lt/live/eds/ETV2/HLS_encr/ETV2.m3u8
+#EXTINF:-1,TV6 EE
+http://cdn2.tvplayhome.lt/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD.m3u8
+#EXTINF:-1,Kanal 11
+http://cdn2.tvplayhome.lt/live/eds/Kanal11/HLS_encr/Kanal11.m3u8
+#EXTINF:-1,Kanala 12
+http://cdn2.tvplayhome.lt/live/eds/Kanal12/HLS_encr/Kanal12.m3u8
+#EXTINF:-1,Tallinna Televisioon
+http://cdn2.tvplayhome.lt/live/eds/TallinnaTV/HLS_encr/TallinnaTV.m3u8
+#EXTINF:-1,Satellite TV
+http://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1,VH1
+http://cdn2.tvplayhome.lt/live/eds/VH1/HLS_encr/VH1.m3u8
+#EXTINF:-1,MTV Hits
+http://cdn2.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1,NTV Mir Baltic
+http://cdn2.tvplayhome.lt/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
+#EXTINF:-1,PBK
+http://cdn2.tvplayhome.lt/live/eds/PBK/HLS_encr/PBK.m3u8
+#EXTINF:-1,Ren TV Baltic
+http://cdn2.tvplayhome.lt/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
+#EXTINF:-1,Kidzone
+http://cdn2.tvplayhome.lt/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+#EXTINF:-1,TV1000
+http://cdn2.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,TV1000 Action
+http://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1,TV1000 Premium
+http://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,BBC
+http://cdn2.tvplayhome.lt/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1,CNN
+http://cdn2.tvplayhome.lt/live/eds/CNN/HLS_encr/CNN.m3u8
+#EXTINF:-1,Disney Channel
+http://cdn2.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1,Nickelodeon
+http://cdn2.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1,Disney Junior
+http://cdn2.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1,Nick JR
+http://cdn2.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1,Nicktoons
+http://cdn2.tvplayhome.lt/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1,Viasat Nature
+http://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1,Viasat History
+http://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+#EXTINF:-1,Viasat Explorer
+http://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+#EXTINF:-1,Setanta Sports
+http://cdn2.tvplayhome.lt/live/eds/Setanta/HLS_encr/Setanta.m3u8
+#EXTINF:-1,Entertainment
+http://cdn2.tvplayhome.lt/live/eds/Entertainment/HLS_encr/Entertainment.m3u8
+#EXTINF:-1,National Geographic
+http://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,Brazzers
+http://cdn2.tvplayhome.lt/live/eds/Brazzers/HLS_encr/Brazzers.m3u8
+#EXTINF:-1,Playboy
+http://cdn2.tvplayhome.lt/live/eds/Playboy/HLS_encr/Playboy.m3u8
+#EXTINF:-1,TV3 LV HD
+http://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD.m3u8
+#EXTINF:-1,LTV1
+https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,LTV7
+https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LV SD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LV HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/index.m3u8
+#EXTINF:-1,LNT
+https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 LV
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Kanāls 2
+https://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3
+https://cdn2.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LT SD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LT HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 LT
+https://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV8 LT
+https://cdn2.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,LRT
+https://cdn2.tvplayhome.lt/live/eds/LRT/HLS_encr/index.m3u8
+#EXTINF:-1,LRT Lithuania
+https://cdn2.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
+#EXTINF:-1,LNK
+https://cdn2.tvplayhome.lt/live/eds/LNK/HLS_encr/index.m3u8
+#EXTINF:-1,TV1
+https://cdn2.tvplayhome.lt/live/eds/TV1/HLS_encr/index.m3u8
+#EXTINF:-1,ETV
+https://cdn2.tvplayhome.lt/live/eds/ETV/HLS_encr/index.m3u8
+#EXTINF:-1,ETV 2
+https://cdn2.tvplayhome.lt/live/eds/ETV2/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 EE SD
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 EE HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_HD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 EE
+https://cdn2.tvplayhome.lt/live/eds/TV6_EE_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Kanal 11
+https://cdn2.tvplayhome.lt/live/eds/Kanal11/HLS_encr/index.m3u8
+#EXTINF:-1,Kanala 12
+https://cdn2.tvplayhome.lt/live/eds/Kanal12/HLS_encr/index.m3u8
+#EXTINF:-1,Tallinna Televisioon
+https://cdn2.tvplayhome.lt/live/eds/TallinnaTV/HLS_encr/index.m3u8
+#EXTINF:-1,Satellite TV
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/index.m3u8
+#EXTINF:-1,VH1
+https://cdn2.tvplayhome.lt/live/eds/VH1/HLS_encr/index.m3u8
+#EXTINF:-1,MTV Hits
+https://cdn2.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/index.m3u8
+#EXTINF:-1,NTV Mir Baltic
+https://cdn2.tvplayhome.lt/live/eds/NTV_Mir/HLS_encr/index.m3u8
+#EXTINF:-1,PBK
+https://cdn2.tvplayhome.lt/live/eds/PBK/HLS_encr/index.m3u8
+#EXTINF:-1,Ren TV Baltic
+https://cdn2.tvplayhome.lt/live/eds/Ren_TV/HLS_encr/index.m3u8
+#EXTINF:-1,Kidzone
+https://cdn2.tvplayhome.lt/live/eds/Kidzone/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000
+https://cdn2.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000 Action
+https://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000 Premium
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
+#EXTINF:-1,BBC
+https://cdn2.tvplayhome.lt/live/eds/BBC/HLS_encr/index.m3u8
+#EXTINF:-1,CNN
+https://cdn2.tvplayhome.lt/live/eds/CNN/HLS_encr/index.m3u8
+#EXTINF:-1,Disney Channel
+https://cdn2.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1,Nickelodeon
+https://cdn2.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/index.m3u8
+#EXTINF:-1,Disney Junior
+https://cdn2.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/index.m3u8
+#EXTINF:-1,Nick JR
+https://cdn2.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/index.m3u8
+#EXTINF:-1,Nicktoons
+https://cdn2.tvplayhome.lt/live/eds/Nicktoons/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat Nature
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat History
+https://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat Explorer
+https://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Setanta Sports
+https://cdn2.tvplayhome.lt/live/eds/Setanta/HLS_encr/index.m3u8
+#EXTINF:-1,Entertainment
+https://cdn2.tvplayhome.lt/live/eds/Entertainment/HLS_encr/index.m3u8
+#EXTINF:-1,National Geographic
+https://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/index.m3u8
+#EXTINF:-1,Brazzers
+https://cdn2.tvplayhome.lt/live/eds/Brazzers/HLS_encr/index.m3u8
+#EXTINF:-1,Playboy
+https://cdn2.tvplayhome.lt/live/eds/Playboy/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 EE HD
+https://cdn2.tvplayhome.lt/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD.m3u8
+#EXTINF:-1,Viasat History HD
+https://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat Explorer HD
+https://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:-1,ETV plus
+http://cdn2.tvplayhome.lt/live/eds/ETVplus/HLS_encr/ETVplus.m3u8
+#EXTINF:-1,Sport1 LT
+https://cdn2.tvplayhome.lt/live/eds/Sport1/HLS_encr/index.m3u8
+#EXTINF:-1,BBC
+http://cdn2.tvplayhome.lt/live/eds/BBC/HLS_encr/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://cdn2.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/index.m3u8
+#EXTINF:-1,CNN
+http://cdn2.tvplayhome.lt/live/eds/CNN/HLS_encr/index.m3u8
+#EXTINF:-1,Sport1 LT
+http://cdn2.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1.m3u8
+#EXTINF:-1,viasatnature
+http://cdn2.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+#EXTINF:-1,nicktoons
+http://cdn2.tvplayhome.lt/live/eds/Nicktoons/HLS_encr/index.m3u8
+#EXTINF:-1,tv1000
+http://cdn2.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/index.m3u8
+#EXTINF:-1,tv1000action
+http://cdn2.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
+#EXTINF:-1,ntvmir
+http://cdn2.tvplayhome.lt/live/eds/NTV_Mir/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat_History
+http://cdn2.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat_Explorer
+http://cdn2.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000 Premium
+http://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
+#EXTINF:-1,Disney Channel
+http://cdn2.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1,Disney Junior
+http://cdn2.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/index.m3u8
+#EXTINF:-1,Brazzers
+http://cdn2.tvplayhome.lt/live/eds/Brazzers/HLS_encr/index.m3u8
+#EXTINF:-1,Playboy
+http://cdn2.tvplayhome.lt/live/eds/Playboy/HLS_encr/index.m3u8
+#EXTINF:-1,LNK
+http://cdn2.tvplayhome.lt/live/eds/LNK/HLS_encr/index.m3u8
+#EXTINF:-1,LNT
+http://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,LRT
+http://cdn2.tvplayhome.lt/live/eds/LRT/HLS_encr/index.m3u8
+#EXTINF:-1,LRT Lithuania
+http://cdn2.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
+#EXTINF:-1,LTV1
+http://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,LTV7
+http://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Sporta Centrs
+https://cdn2.tvplayhome.lt/live/eds/SportaCentrs/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000 Premium
+http://cdn2.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LT HD
+http://cdn2.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LT SD
+http://cdn2.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LV HD
+http://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LV SD
+http://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 EE
+http://cdn2.tvplayhome.lt/live/eds/TV6_EE_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 LT
+http://cdn2.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 LV
+http://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV8 LT
+http://cdn2.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,VH1
+http://cdn2.tvplayhome.lt/live/eds/VH1/HLS_encr/index.m3u8
+#EXTINF:-1,Disney_XD
+http://cdn2.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1,TV3 Esti HD
+http://cdn2.tvplayhome.lt/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD.m3u8
+#EXTINF:-1,TV3 Esti
+http://cdn2.tvplayhome.lt/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD.m3u8
+#EXTINF:-1,TV3plus Esti
+http://cdn2.tvplayhome.lt/live/eds/3plus_EE_SD/HLS_encr/3plus_EE_SD.m3u8
+#EXTINF:-1,ViasatHistoryHD
+http://cdn2.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
+#EXTINF:-1,NatGeoHD
+http://cdn2.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat Explorer HD
+http://cdn2.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000Premium SD
+https://cdn2.tvplayhome.lt/live/eds/TV1000PremiumSD/HLS_encr/TV1000PremiumSD-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1,Sport 1
+http://cdn2.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1-audio_20004=96000-video=2200000.m3u8
+#EXTINF:-1,ETV Plus
+https://cdn2.tvplayhome.lt/live/eds/ETVplus/HLS_encr/ETVplus-audio_20000=96000-video=5000000.m3u8
+#EXTINF:-1,TV3 (Opt-1) (New!)
+https://cdn2.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-audio_20000=96000-video=5500000.m3u8
+#EXTINF:-1,Satellite TV HD
+http://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-audio_20000=96000-video=5000000.m3u8
+#EXTINF:-1,LT SPORT | Sport1
+http://cdn2.tvplayhome.lt/live/eds/Sport1/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 LV HD
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_HD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 LV HD
+http://cdn2.tvplayhome.lt/live/eds/TV6_LV_HD/HLS_encr/TV6_LV_HD.m3u8
+#EXTINF:-1,Riga TV 24
+http://cdn2.tvplayhome.lt/live/eds/T24Riga/HLS_encr/T24Riga.m3u8
+#EXTINF:-1,Riga TV 24
+https://cdn2.tvplayhome.lt/live/eds/T24Riga/HLS_encr/index.m3u8
+#EXTINF:-1,ReTV
+http://cdn2.tvplayhome.lt/live/eds/ReTV/HLS_encr/ReTV.m3u8
+#EXTINF:-1,ReTV
+https://cdn2.tvplayhome.lt/live/eds/ReTV/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 LT HD
+http://cdn2.tvplayhome.lt/live/eds/TV6_LT_HD/HLS_encr/TV6_LT_HD.m3u8
+#EXTINF:-1,TV6 LT HD
+https://cdn2.tvplayhome.lt/live/eds/TV6_LT_HD/HLS_encr/index.m3u8
+#EXTINF:-1,Lietuvos rytas TV
+http://cdn2.tvplayhome.lt/live/eds/Lietuvos_Ryto_TV/HLS_encr/Lietuvos_Ryto_TV.m3u8
+#EXTINF:-1,Lietuvos rytas TV
+https://cdn2.tvplayhome.lt/live/eds/Lietuvos_Ryto_TV/HLS_encr/index.m3u8
+#EXTINF:-1,Info TV
+http://cdn2.tvplayhome.lt/live/eds/InfoTV/HLS_encr/InfoTV.m3u8
+#EXTINF:-1,Info TV
+https://cdn2.tvplayhome.lt/live/eds/InfoTV/HLS_encr/index.m3u8
+#EXTINF:-1,My Hits
+http://cdn2.tvplayhome.lt/live/eds/My_Hits/HLS_encr/My_Hits.m3u8
+#EXTINF:-1,My Hits
+https://cdn2.tvplayhome.lt/live/eds/My_Hits/HLS_encr/index.m3u8
+#EXTINF:-1,LRT Plius
+http://cdn2.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/LRTKultura.m3u8
+#EXTINF:-1,LRT Plius
+https://cdn2.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/index.m3u8
+#EXTINF:-1,FOX LT
+http://cdn2.tvplayhome.lt/live/eds/FOX_LT/HLS_encr/FOX_LT.m3u8
+#EXTINF:-1,FOX LT
+https://cdn2.tvplayhome.lt/live/eds/FOX_LT/HLS_encr/index.m3u8
+#EXTINF:-1,Esports
+http://cdn2.tvplayhome.lt/live/eds/EsportHD/HLS_encr/EsportHD.m3u8
+#EXTINF:-1,Esports
+https://cdn2.tvplayhome.lt/live/eds/EsportHD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 EE HD
+https://cdn2.tvplayhome.lt/live/eds/TV6_EE_HD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 EE SD
+http://cdn2.tvplayhome.lt/live/eds/TV6_EE_HD/HLS_encr/TV6_EE_HD.m3u8
+#EXTINF:-1,Kanal 2
+http://cdn2.tvplayhome.lt/live/eds/Kanal2/HLS_encr/Kanal2.m3u8
+#EXTINF:-1,Kanal 2
+https://cdn2.tvplayhome.lt/live/eds/Kanal2/HLS_encr/index.m3u8
+#EXTINF:-1,NTV Mir Baltic LT
+http://cdn2.tvplayhome.lt/live/eds/NTV_Mir_Baltic_LT/HLS_encr/NTV_Mir_Baltic_LT.m3u8
+#EXTINF:-1,NTV Mir Baltic LT
+https://cdn2.tvplayhome.lt/live/eds/NTV_Mir_Baltic_LT/HLS_encr/index.m3u8
+#EXTINF:-1,Ren TV Baltic LT
+http://cdn2.tvplayhome.lt/live/eds/Ren_TV_LT/HLS_encr/Ren_TV_LT.m3u8
+#EXTINF:-1,Ren TV Baltic LT
+https://cdn2.tvplayhome.lt/live/eds/Ren_TV_LT/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000 Ruskoje kino
+http://cdn2.tvplayhome.lt/live/eds/TV1000_rus_kino_SD/HLS_encr/TV1000_rus_kino_SD.m3u8
+#EXTINF:-1,TV1000 Ruskoje kino
+https://cdn2.tvplayhome.lt/live/eds/TV1000_rus_kino_SD/HLS_encr/index.m3u8
 #EXTINF:-1,National Geographic LV
-http://185.176.117.242/live/eds/National_Geographic_LV/HLS_encr/National_Geographic_LV.m3u8
+http://cdn2.tvplayhome.lt/live/eds/National_Geographic_LV/HLS_encr/National_Geographic_LV.m3u8
 #EXTINF:-1,National Geographic LV
-https://185.176.117.242/live/eds/National_Geographic_LV/HLS_encr/index.m3u8
+https://cdn2.tvplayhome.lt/live/eds/National_Geographic_LV/HLS_encr/index.m3u8
 #EXTINF:-1,Ohota y Ribalka
-http://185.176.117.242/live/eds/Ohota_i_Ribalka/HLS_encr/Ohota_i_Ribalka.m3u8
+http://cdn2.tvplayhome.lt/live/eds/Ohota_i_Ribalka/HLS_encr/Ohota_i_Ribalka.m3u8
 #EXTINF:-1,Ohota y Ribalka
-https://185.176.117.242/live/eds/Ohota_i_Ribalka/HLS_encr/index.m3u8
+https://cdn2.tvplayhome.lt/live/eds/Ohota_i_Ribalka/HLS_encr/index.m3u8
 #EXTINF:-1,CTC Baltija
-http://185.176.117.242/live/eds/CTCBaltics/HLS_encr/CTCBaltics.m3u8
+http://cdn2.tvplayhome.lt/live/eds/CTCBaltics/HLS_encr/CTCBaltics.m3u8
 #EXTINF:-1,CTC Baltija
-https://185.176.117.242/live/eds/CTCBaltics/HLS_encr/index.m3u8
+https://cdn2.tvplayhome.lt/live/eds/CTCBaltics/HLS_encr/index.m3u8
 #EXTINF:-1,Fight sport
-http://185.176.117.242/live/eds/FightSportHD/HLS_encr/FightSportHD.m3u8
+http://cdn2.tvplayhome.lt/live/eds/FightSportHD/HLS_encr/FightSportHD.m3u8
 #EXTINF:-1,Fight sport
-https://185.176.117.242/live/eds/FightSportHD/HLS_encr/index.m3u8
-#EXTINF:-1,Sporta centrs
-http://185.176.117.242/live/eds/SportaCentrs/HLS_encr/SportaCentrs.m3u8
+https://cdn2.tvplayhome.lt/live/eds/FightSportHD/HLS_encr/index.m3u8
+#EXTINF:-1,TV 3 skatīties
+http://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-mp4a_96000_lav=9.m3u8
 #EXTINF:-1,TV3 Sport HD
-http://185.176.117.242/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD-avc1_5500000=16-mp4a_96000_lit=11.m3u8
+http://cdn2.tvplayhome.lt/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD-avc1_5500000=16-mp4a_96000_lit=11.m3u8
 #EXTINF:-1,TV3 Sport HD
-http://185.176.117.242/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD.m3u8
+http://cdn2.tvplayhome.lt/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD.m3u8
 #EXTINF:-1,TV3 Sport HD
-http://185.176.117.242/live/eds/ViasatSportBaltics_HD/HLS_encr/index.m3u8
+http://cdn2.tvplayhome.lt/live/eds/ViasatSportBaltics_HD/HLS_encr/index.m3u8
